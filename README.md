@@ -1,3 +1,8 @@
+Embedding links are in run.txt
+with the best model (best.pt, put under save_model)
+
+
+
 # C2-CRS: Coarse-to-Fine Contrastive Learning for CRS
 The source code for our WSDM 2022 Paper [**"C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System"**](https://arxiv.org/abs/2201.02732)
 
